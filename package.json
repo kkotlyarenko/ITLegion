@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "MultiUserServer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkotlyarenko/ITLegion.git"
+  },
+  "author": "ITLegion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkotlyarenko/ITLegion/issues"
+  },
+  "homepage": "https://github.com/kkotlyarenko/ITLegion#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "git": "^0.1.5",
+    "socket.io": "^4.4.0"
+  }
+}
